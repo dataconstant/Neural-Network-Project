@@ -1,0 +1,20 @@
+Required Libraries
+1. DEAP
+2. PyTorch
+3. Pandas
+4. Numpy
+5. Matplotlib
+
+
+Contents - 
+1. Oil Well Classification.py contains the classification task for FLAG
+2. Oil Well Regression.py contains the regression task for LogK and Phi
+3. Oil Well Classification Bimodal.py contains the classification task for FLAG with BDR
+4. Oil Well Regression Bimodal.py contains the regression task for LogK and Phi with BDR
+5. Oil Well Classification Bimodal GA.py contains the classification task for FLAG with BDR and feature selection using evolutionary algorithm
+6. Oil Well Regression Bimodal GA.py contains the regression task for LogK and Phi with BDR and feature selection using evolutionary algorithm
+
+Instructions for running
+1. Use Python 3.0+
+2. Please install the required libraries
+3. Use Spyder or any other IDE for run the python files described above
